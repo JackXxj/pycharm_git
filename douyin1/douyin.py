@@ -83,7 +83,7 @@ def douyin_kol_detail_parse():
 
 
 def douyin_kol():
-    url = ''
+    url = 'http://ip.cn'
     print time.strftime('[%Y-%m-%d %H:%M:%s]'), '抖音url：', url
 
 
